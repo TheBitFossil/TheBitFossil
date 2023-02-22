@@ -1,7 +1,7 @@
 <h3 align="center">
 Hello World 👋, I'm <a href="https://www.linkedin.com/thebitfossil" target="_blank" rel="noreferrer">René</a> a.k.a TheBitFossil
 </h3>
-<p align="center">"Never give up on what you believe and work hard to reach your goals."</p>
+<p align="center">"Never give up and work hard to reach your goals."</p>
 
 <h2 align="center">
 💻 Full-Time Game Engineering Student at the School For Games in Berlin 💻
