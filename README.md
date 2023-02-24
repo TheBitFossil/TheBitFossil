@@ -9,7 +9,7 @@ I grew up during the early days of gaming when Beat'Em Ups dominated the market 
 Since then i have never stopped playing, loving and collecting games and my main library contains over 400 games and growing. <br>
 <br>
 Today I develop games with **Godot, C# (Unity) or C++ (Unreal)**, with a strong emphasis on keeping my code clean and maintainable. <br>
-Highly self-motivated to and quick to learn new engines or tools and very patient when it comes to bugfixing. <br>
+Self-motivated and quick to learn new engines or tools and very patient when it comes to bugfixing. <br>
 <br>
 During the last **2 years** I was mainly working as **Gameplay|AI Programmer** collaborating with Game Designers and Artists. <br>
 Implemented player or npc locomotions, 3D models, audio- or visual-effects, responsible for the general project structure <br> 
