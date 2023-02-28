@@ -5,7 +5,7 @@ Hello World 👋, I'm <a href="https://www.linkedin.com/thebitfossil" target="_b
 
 About Me
 --------------
-Today I develop games with **Godot, C# (Unity) or C++ (Unreal)**, with a strong emphasis on keeping my code clean and maintainable. <br>
+Today I develop games with **Godot, C# (Unity) or C++ (Unreal)**, with a strong emphasis on keeping my code clean and maintainable.
 Self-motivated and quick to learn new engines or tools and very patient when it comes to bugfixing. <br>
 <br>
 I grew up during the early days of gaming when Beat'Em Ups dominated the market and handhelds only used 'A and B'. <br>
