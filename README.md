@@ -5,11 +5,11 @@ Hello World 👋, I'm <a href="https://www.linkedin.com/thebitfossil" target="_b
 
 About Me
 --------------
-I grew up during the early days of gaming when Beat'Em Ups dominated the market and handhelds only used 'A and B'. <br>
-Since then i have never stopped playing, loving and collecting games and my main library contains over 400 games and growing. <br>
-<br>
 Today I develop games with **Godot, C# (Unity) or C++ (Unreal)**, with a strong emphasis on keeping my code clean and maintainable. <br>
 Self-motivated and quick to learn new engines or tools and very patient when it comes to bugfixing. <br>
+<br>
+I grew up during the early days of gaming when Beat'Em Ups dominated the market and handhelds only used 'A and B'. <br>
+Since then i have never stopped playing, loving and collecting games and my main library contains over 400 games and growing. <br>
 <br>
 During the last **2 years** I was mainly working as **Gameplay|AI Programmer** collaborating with Game Designers and Artists. <br>
 Implemented player or npc locomotions, 3D models, audio- or visual-effects, responsible for the general project structure <br> 
@@ -17,7 +17,6 @@ and onboarding with version control **(Perforce, TurtoiseHG)**.<br>
 <br>
 Linux is not for everyone but it can be, so I am taking the extra effort to get Unity or Unreal up and running. <br>
 Because all projects where **made on Linux** and I am dedicated to deploy for the different operating systems. <br>
-
 
 ## 💼 Languages and Tools
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
