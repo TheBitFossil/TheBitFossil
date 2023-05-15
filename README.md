@@ -29,13 +29,14 @@ Because all projects where **made on Linux** and I am dedicated to deploy for th
 
 ## 🔭 I'm currently working on
 
-- Prototypes with Unreal Engine 5.1
+- Prototypes with Unreal Engine 5
 
 ## 🌱 I'm currently learning
 
 - C++
-- (Unreal Engine)
+- Unreal Engine
   * Multiplayer    
   * Behavior Trees, EQS
+  * Gameplay Ability System
 
 
