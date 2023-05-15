@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello World 👋, I'm <a href="https://www.linkedin.com/thebitfossil" target="_blank" rel="noreferrer">René</a> a.k.a TheBitFossil </h1>
+Hello World 👋, I'm <a href="https://www.linkedin.com/in/thebitfossil" target="_blank" rel="noreferrer">René</a> a.k.a TheBitFossil </h1>
 <h3 align="center"> <i>"Never give up and work hard to reach your goals."</i> </h3>
 <h2 align="center"> 💻 Gameplay|AI Programmer at School For Games in Berlin 💻 </h2>
 
