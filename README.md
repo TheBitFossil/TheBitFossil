@@ -19,7 +19,6 @@ Additionally, I have experience with version control systems such as **Perforce 
 While Linux may not be the most popular choice for game development, I am committed to putting in the extra effort to ensure Unity or Unreal can be set up and used effectively on the platform. **All of my projects have been developed on Linux**, and I am dedicated to deploying games on different operating systems.
 
 ## 💼 Languages and Tools
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
@@ -38,5 +37,7 @@ While Linux may not be the most popular choice for game development, I am commit
   * Multiplayer    
   * Behavior Trees, EQS
   * Gameplay Ability System
-
+- Unity
+  * DOTS, ECS
+  * NETCODE
 
